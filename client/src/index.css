@@ -1,0 +1,22 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+ /* ********css for register page*********** */
+ .register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  flex-direction: column;
+ }
+
+ /* css for header*/
+ .header{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+
+ }
